@@ -1,0 +1,19 @@
+// Installation Document
+After Downloading and Unzipping the plug-in code,
+Copy the whole folder into the plugins folder of your local Fiji.app program files (i.e. C:\Program Files\Fiji.app\plugins)
+Restart Fiji
+The folder will appear as a sub-menu in the Plug-ins tab of Fiji and all code within that Sub-menu
+
+Please also add the additional dependencies: Open Fiji > Help > Updates > Manage update Sites
+	> Check BAR, IJPB-plugins and ResultsToExcel > Close > Apply Changes > Close > Restart Fiji 
+
+The Additional plug-ins – utilised by this macro are as follows:
+>> BAR (Ferreira, T., Miura, K., Bitdeli Chef, & Eglinger, J. (2015, August 21). Scripts: Bar 1.1.6. Zenodo.
+	https://doi.org/10.5281/ZENODO.28838">doi:10.5281/zenodo.28838" class="csl-entry">Ferreira, T., Miura, K., Bitdeli Chef,
+	& Eglinger, J. (2015, August 21). Scripts: Bar 1.1.6. Zenodo. https://doi.org/10.5281/ZENODO.28838 )
+>> MorphoLibJ (Legland, D., Arganda-Carreras, I., & Andrey, P. (2016). MorphoLibJ: integrated library and plugins for
+	mathematical morphology with ImageJ. Bioinformatics, btw413. doi:10.1093/bioinformatics/btw413 )
+>> Read_And_Write_Excel (Anthony Sinadinos, Brenden Kromhout, 2017)
+
+All of these have been used in good faith and without any known breach of copywrite, as these are all believed to be free software.
+	Our gratitude goes to the creators of the plug-ins (referenced above) for there hard work and contributions to the coding community.
