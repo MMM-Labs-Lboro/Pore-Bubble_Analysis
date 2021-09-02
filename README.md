@@ -1,5 +1,5 @@
 # Pore-Bubble_Analysis
-Fiji Marco to automate large scale analysis of foam characteristics.
+Fiji Marco to automate large scale analysis of foams, porous solids and bubbly liquids characteristics. Applications may include polymeric-foams, metalic-foams, foods (bread, doughnuts, icecream), porous rocks, wood products and catalysts.
 We used this to analyse Bread images to determine 'fluffiness' but could be used to analyse and porous structure or material, as well as bubbles.
 We have chosen to upload what we have made as a contribution to the community that has been an invaluable resource in our recent work - analysing baked goods charictoristics to investigate the application of ultrasonic irradiation during baking and identify optimum parameters. We hope that this code may be useful to others, perhaps in analysis of other food stuffs, porous materials, void or bubble analysis.
 
