@@ -1,0 +1,2 @@
+# Pore-Bubble_Analysis
+Fiji Marco to automate analysis of foam characteristics. We used this to analyse Bread images to determine 'fluffiness' but could be used to analyse and porous structure or material, as well as bubbles. Code takes an image input and creates a file of results tables and output images (distribution plots and heat maps), characterising bubble size, orientation and global porosity..
