@@ -1,6 +1,8 @@
 # Pore-Bubble_Analysis
 Fiji Marco to automate large scale analysis of foam characteristics.
 We used this to analyse Bread images to determine 'fluffiness' but could be used to analyse and porous structure or material, as well as bubbles.
+We have chosen to upload what we have made as a contribution to the community that has been an invaluable resource in our recent work - analysing baked goods charictoristics to investigate the application of ultrasonic irradiation during baking and identify optimum parameters. We hope that this code may be useful to others, perhaps in analysis of other food stuffs, porous materials or bubble analysis.
+
 Code takes an image input and creates a file of results tables and output images (distribution plots and heat maps), characterising bubble size, orientation and global porosity.
 We have made this folder of '.ijm' codes. To install this into Fiji, copy the whole unzipped folder into the plugins file of your local Fiji.app program files (i.e. C:\Program Files\Fiji.app\plugins)
 
