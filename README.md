@@ -1,19 +1,19 @@
 # Pore-Bubble_Analysis
-Fiji Marco to automate large scale analysis of foams, porous solids and bubbly liquids characteristics. Applications include polymeric-foams, metalic-foams, foods (bread, doughnuts, icecream), porous rocks, wood products and catalysts. This code was most useful in the analysis of large data sets / big data image analysis.
-We used this to analyse Bread images to determine 'fluffiness' but could be used to analyse and porous structure or material, as well as bubbles.
-We have chosen to upload what we have made as a contribution to the community that has been an invaluable resource in our recent work - analysing baked goods charictoristics to investigate the application of ultrasonic irradiation during baking and identify optimum parameters. We hope that this code may be useful to others, in analysis of other food stuffs, porous materials, void and bubble analysis.
+Fiji Macro to automate large scale analysis of foams, porous solids and bubbly liquids characteristics. Applications include polymeric foams, metallic foams, foams in foods (bread, doughnuts, ice cream, aerated chocolate, mousse), porous rocks, wood products, bioengineering structures (e.g., hydroxyapatite, CAP scaffolds) and porous catalysts. This code is most useful in the analysis of large data sets / big data image analysis.
+We used this to analyse Bread cross-section images to determine 'fluffiness' as a consequence of sonication (https://doi.org/10.1088/0964-1726/18/10/104001) but this could be also used to analyse any porous structure or foamed material, as well as bubbles in liquids or emulsions.
+We have chosen to upload what we have created as a contribution to the Community that has been an invaluable resource in our recent work - analysing baked goods and thir characteristics to investigate the application of ultrasonic irradiation during prooving, baking or frying and to identify optimum processing parameters. We hope that this code may be useful to others in their analysis and assessment of other food stuffs, porous materials, voids and bubbles.
 
-Code takes an image input and creates a file of results tables and output images (distribution plots and heat maps), characterising bubble size, orientation and global porosity.
+Code takes an image input and creates a file of results with tables and output images (distribution plots and heat maps), characterising bubble size, orientation and global porosity.
 We have made this folder of '.ijm' codes. To install this into Fiji, copy the whole unzipped folder into the plugins file of your local Fiji.app program files (i.e. C:\Program Files\Fiji.app\plugins)
 
-Folder Contains Additional_Operations that contain other codes used to prepare some images and rename images. These were one-time-use codes but have been left as they may prove useful in the future.
+Folder Contains 'Additional_Operations', a folder that contain other codes used to prepare the images and rename them in preparation to be fed to the Code. These were one-time-use codes but have been left as they may prove useful in the future.
 Also, included, are excel (VBA) macros, that were used to collate and summerise results.
-Please consult the provided PDF document as a Guide on how the code was used by the MMM Research Team.
+Please consult the provided PDF document as a Guide on how the code was used by the MMM Lab Research Team.
 Input: Tiff, Jpeg or PNG images of porous medium (cropped to the area of interest and set/known scale)
 Output: A folder of various results, including distribution plots and heat maps of key pore characteristics, as well as pore
 	results tables and measurements of global characteristics, crust thickness and ring hole characteristics (if applicable).
 
-Written by Ben Sargeant, for the Multifunctional Materials Manufacturing Research Group – Loughborough University.
+Written by Ben Sargeant, for the Multifunctional Materials Manufacturing Lab Research Group – Loughborough University.
 	Contact the MMM Labs by email on C.Torres@lboro.ac.uk.
 Copyright (C) 2021 Ben Sargeant & Carmen Torres-Sanchez. This program is free software: you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of
